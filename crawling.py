@@ -34,5 +34,3 @@ if response.status_code == 200:
 # 크롤러가 웹 사이트에 접근할 수 없다면 status code 출력
 else : 
     print(response.status_code)
-
-print("<--------------------------------->")
